@@ -1,5 +1,5 @@
-cmd: mongo
-//start mongodb
+#cmd: mongo
+##start mongodb
 cmd:use sooraj
 //choose databse
 
