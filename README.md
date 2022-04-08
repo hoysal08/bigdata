@@ -1,7 +1,7 @@
 # Bigdata Lab
 
 ### cmd: mongo 
-#### start mongodb 
+#### *start mongodb* 
 ### cmd:use sooraj 
 #### choose databse
 
